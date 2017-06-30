@@ -1,0 +1,14 @@
+How to install
+(Executed on a MacOS system)
+
+Assuming the Demo of FM8 and a version of Pd is already installed
+
+1) Go to Applications/Utilities/Audio MIDI Setup and open the MIDI Studio window
+2) Click on the IAC Driver and tick the box called "Device is online"
+3) Open the FM8 Demo and select Navigator = Broswer, Type = Organ and Name = Clean Organ (for demonstrative purposes)
+4) From FM8, go to File/Audio and MIDI Settings
+5) On the MIDI tab, make sure that IAC Driver (Bus 1) is On
+6) The FM8_Integration file in Pd
+7) Go to Pd/Preferences/MIDI Settings
+8) Select the Output Devices option to IAC Driver Bus 1
+9) The Pd patch should now work
