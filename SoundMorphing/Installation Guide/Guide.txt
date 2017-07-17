@@ -1,0 +1,11 @@
+These numbered points correspond to the similarly numbered pictures as a guide to install the sound morph
+
+1) Follow the link as shown
+2) Download for all OS
+3) Unzip the file, file you want is this
+4) Place inside the PD extra Folder
+5) dont past the whole file (from 3), paste everything inside the file instead
+6) how the morph works
+7) how the morph works again
+8) the file location in full where the items from 5 are placed
+
